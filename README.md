@@ -8,7 +8,7 @@ O brilho do estudo para ser Engenheiro de dados. | Minha trajetória de estudos 
 Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgânico e evolutório, contando com uma linguagem que mescla facilitar a aprendizagem e troca de informações.*
 <br />
 
-### CONCEITOS BÁSICOS:
+### CONHECIMENTOS BÁSICOS:
 *  <span style="color:red"> O QUE É ENGENHARIA DE DADOS? </span> A grosso modo é a área que trata da transformação do grande volume de dados brutos de uma empresa. Ela coleta, armazena e transforma esses dados em grande escala.
 
 * <span style="color:red"> O QUE O ENGENHEIRO DE DADOS FAZ?</span> Em suma o engenheiro gerencia, monitora e otimiza o armazenamento, recuperação e distribuição desses dados.
@@ -19,5 +19,5 @@ Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgân
 <br />
 
 ### FERRAMENTAS BÁSICAS:
-* LINUX - comandos básicos do terminal.
+* LINUX - conceito e comandos básicos do terminal.
 
