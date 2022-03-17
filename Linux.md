@@ -15,21 +15,38 @@ Por que esse carinha é usado em grande escala por diversos servidores, e també
 
 <br />
 
-### COMANDOS BÁSICOS:
+### COMANDOS BÁSICOS (USADOS NO TERMINAL):
 
-#### *NAVEGAÇÃO E CONSULTAS NO DIRETÓRIOS*
+#### *NAVEGAÇÃO E CONSULTAS NOS DIRETÓRIOS*
 
 * `pwd` - mostra onde estou (na area de trabalho, ou na pasta tal);
 
-* `cd NomeOndeQueroIr` - entra nos lugares (entra nas pastas)
+* `cd NomeOndeQueroIr` - entra nos lugares (entra nas pastas);
 
-* `cd ..` - volta para os lugares (retorna para onde você estava)
+* `cd ..` - volta para os lugares (retorna para onde você estava);
+
+* `cd .` - mostra onde estou (pasta atual);
+
+* `cd` - me faz voltar para a *Area de Trabalho*;
 
 * `ls` - mostra o que tem no lugar que estou (nome de pastas, documentos, arquivos);
 
-* `ls -l` - mostra vários dados (inclusive os ocultos);
+* `ls -l` - mostra o que tem no lugar que estou detalhadamente (nome de pastas, documentos, arquivos);
 
-* `clear` - limpa a tela
+* `ls -a` - mostra o que tem no lugar que estou detalhadamente inclusive pastas, documentos e arquivos ocultos;
+
+* `clear` - limpa a tela do terminal (Ctrl + L, faz a mesma coisa).
+
+
+#### *CRIAR, RENOMEAR E EDITAR DOCUMENTOS*
+
+* `echo NomeDoDocumento` - cria um novo documento;
+
+* `echo NomeDoDocumento > NomeDoDocumento.txt` - transforma o documento criado em um documento na extensão escolhida (no caso do exemplo .txt);
+
+* `cat NomeDoDocumento.txt` - abri o documento e mostra o conteúdo dele;
+
+* `cat -n NomeDoDocumento.txt` - além de abrir o documento e mostrar o conteúdo dele, mostra o número de linhas deste documento;
 
 <br />
 
