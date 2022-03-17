@@ -19,5 +19,5 @@ Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgân
 <br />
 
 ### FERRAMENTAS BÁSICAS:
-* LINUX - conceito e comandos básicos do terminal.
+* [LINUX](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/Linux.md) - conceito e comandos básicos do terminal.
 
