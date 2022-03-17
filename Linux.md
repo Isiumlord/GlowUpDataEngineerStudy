@@ -28,7 +28,7 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 `ls -a` | mostra o que tem no lugar que estou detalhadamente inclusive pastas e arquivos ocultos;
 `clear` | limpa a tela do terminal (Ctrl + L, faz a mesma coisa).
 
-* DIRETÓRIO é a mesma coisa que uma pasta (nas antigas, no tempo do DOS, chamavam as pastas de diretórios).
+* DIRETÓRIO é a mesma coisa que uma pasta (nas antigas, no tempo do [DOS](https://pt.wikipedia.org/wiki/DOS), chamavam as pastas de diretórios).
 * PASTA é onde guardamos arquivos e outras pastas.
 * ARQUIVO armazena dados, informações. Ex.: um bloco de notas gera um arquivo de texto. Uma foto é um arquivo de imagem.
 <br />
