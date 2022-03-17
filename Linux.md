@@ -15,17 +15,19 @@ Por que esse carinha é usado em grande escala por diversos servidores, e també
 
 <br />
 
-### COMANDOS BÁSICOS DE NAVEGAÇÃO E CONSULTAS NOS DIRETÓRIOS
+### COMANDOS BÁSICOS DE NAVEGAÇÃO E CONSULTAS NOS DIRETÓRIOS [verRodando+](n)
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
-`pwd` | mostra onde estou (na area de trabalho, ou na pasta tal);
-`cd NomeOndeQueroIr` | entra nos lugares (entra nas pastas);
-`cd ..` | volta para os lugares (retorna para onde você estava);
-`cd .` | mostra onde estou (pasta atual);
-`cd` | me faz voltar para a *HOME*;
-`ls` | mostra o que tem no lugar que estou (nome de pastas, documentos, arquivos);
-`ls -l` | mostra o que tem no lugar que estou detalhadamente (nome, data, tipo);
-`ls -a` | mostra o que tem no lugar que estou detalhadamente inclusive pastas e arquivos ocultos;
+`pwd` | mostra onde estou (na area de trabalho, ou na pasta tal).
+`cd NomeOndeQueroIr` | entra nos lugares (entra nas pastas).
+`cd ..` | volta para os lugares (retorna para onde você estava).
+`cd .` | mostra onde estou (pasta atual).
+`cd` | me faz voltar para a *HOME*.
+`ls` | mostra o que tem no lugar que estou (nome de pastas, documentos, arquivos).
+`ls -l` | mostra o que tem no lugar que estou detalhadamente (nome, data, tipo).
+`ls -a` | mostra o que tem no lugar que estou detalhadamente inclusive pastas e arquivos ocultos.
+`ls/` | mostra todos os arquivos do sistema.
+`ls/home` | mostra os arquivos do usuário.
 `clear` | limpa a tela do terminal (Ctrl + L, faz a mesma coisa).
 
 * DIRETÓRIO é a mesma coisa que uma pasta (nas antigas, no tempo do [DOS](https://pt.wikipedia.org/wiki/DOS), chamavam as pastas de diretórios).
@@ -33,13 +35,18 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 * ARQUIVO armazena dados, informações. Ex.: um bloco de notas gera um arquivo de texto. Uma foto é um arquivo de imagem.
 <br />
 
-### CRIAR, RENOMEAR E EDITAR DOCUMENTOS
+### CRIAR, RENOMEAR E EDITAR DOCUMENTOS [verRodando+](n)
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
-`echo NomeDoDocumento` | cria um novo documento;
-`echo NomeDoDocumento > NomeDoDocumento.txt` | transforma o documento criado em um documento na extensão escolhida (no caso do exemplo .txt);
-`cat NomeDoDocumento.txt` | abri o documento e mostra o conteúdo dele;
-`cat -n NomeDoDocumento.txt` | além de abrir o documento e mostrar o conteúdo dele, mostra o número de linhas deste documento;
+`echo NomeDocumento` | cria um novo documento.
+`echo NomeDocumento > NomeDocumento.txt` | transforma o documento criado em um documento na extensão escolhida (no caso do exemplo .txt).
+`echo NomeDocumento > NomeDocumento.txt` | usando `>` você sobrescreve dados ao documento.
+`echo NomeDocumento >> NomeDocumento.txt` | usando `>>` você acrescenta dados ao documento.
+`cat NomeDocumento.txt` | abri o documento e mostra o conteúdo dele.
+`cat -n NomeDocumento.txt` | além de abrir o documento e mostrar o conteúdo dele, mostra o número de linhas deste documento.
+`mv NomeDocumento NomeNovo` | renomeia o documento.
+`cp NomeDocumento NomeDaCopia` | fazer cópia do documento.
+
 
 <br />
 
