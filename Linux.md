@@ -15,39 +15,33 @@ Por que esse carinha é usado em grande escala por diversos servidores, e també
 
 <br />
 
-### COMANDOS BÁSICOS (USADOS NO TERMINAL):
+### COMANDOS BÁSICOS DE NAVEGAÇÃO E CONSULTAS NOS DIRETÓRIOS
+COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
+----------- | ------
+`pwd` | mostra onde estou (na area de trabalho, ou na pasta tal);
+`cd NomeOndeQueroIr` | entra nos lugares (entra nas pastas);
+`cd ..` | volta para os lugares (retorna para onde você estava);
+`cd .` | mostra onde estou (pasta atual);
+`cd` | me faz voltar para a *HOME*;
+`ls` | mostra o que tem no lugar que estou (nome de pastas, documentos, arquivos);
+`ls -l` | mostra o que tem no lugar que estou detalhadamente (nome, data, tipo);
+`ls -a` | mostra o que tem no lugar que estou detalhadamente inclusive pastas e arquivos ocultos;
+`clear` | limpa a tela do terminal (Ctrl + L, faz a mesma coisa).
 
-#### *NAVEGAÇÃO E CONSULTAS NOS DIRETÓRIOS*
+* DIRETÓRIO é a mesma coisa que uma pasta (nas antigas, no tempo do DOS, chamavam as pastas de diretórios).
+* PASTA é onde guardamos arquivos e outras pastas.
+* ARQUIVO armazena dados, informações. Ex.: um bloco de notas gera um arquivo de texto. Uma foto é um arquivo de imagem.
+<br />
 
-* `pwd` - mostra onde estou (na area de trabalho, ou na pasta tal);
-
-* `cd NomeOndeQueroIr` - entra nos lugares (entra nas pastas);
-
-* `cd ..` - volta para os lugares (retorna para onde você estava);
-
-* `cd .` - mostra onde estou (pasta atual);
-
-* `cd` - me faz voltar para a *Area de Trabalho*;
-
-* `ls` - mostra o que tem no lugar que estou (nome de pastas, documentos, arquivos);
-
-* `ls -l` - mostra o que tem no lugar que estou detalhadamente (nome de pastas, documentos, arquivos);
-
-* `ls -a` - mostra o que tem no lugar que estou detalhadamente inclusive pastas, documentos e arquivos ocultos;
-
-* `clear` - limpa a tela do terminal (Ctrl + L, faz a mesma coisa).
-
-
-#### *CRIAR, RENOMEAR E EDITAR DOCUMENTOS*
-
-* `echo NomeDoDocumento` - cria um novo documento;
-
-* `echo NomeDoDocumento > NomeDoDocumento.txt` - transforma o documento criado em um documento na extensão escolhida (no caso do exemplo .txt);
-
-* `cat NomeDoDocumento.txt` - abri o documento e mostra o conteúdo dele;
-
-* `cat -n NomeDoDocumento.txt` - além de abrir o documento e mostrar o conteúdo dele, mostra o número de linhas deste documento;
+### CRIAR, RENOMEAR E EDITAR DOCUMENTOS
+COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
+----------- | ------
+`echo NomeDoDocumento` | cria um novo documento;
+`echo NomeDoDocumento > NomeDoDocumento.txt` | transforma o documento criado em um documento na extensão escolhida (no caso do exemplo .txt);
+`cat NomeDoDocumento.txt` | abri o documento e mostra o conteúdo dele;
+`cat -n NomeDoDocumento.txt` | além de abrir o documento e mostrar o conteúdo dele, mostra o número de linhas deste documento;
 
 <br />
 
 ## *DOCUMENTO EM CONSTRUÇÃO*
+
