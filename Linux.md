@@ -62,16 +62,30 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 
 <br />
 
-### ARQUIVOS - COMPACTAR, DESCOMPACTAR, E+ [#verRodando](n)
+### .ZIP - COMPACTAR & DESCOMPACTAR ARQUIVOS, E+ [#verRodando](n)
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
-`zip NomePasta.zip NomePasta` | compacta a pasta em um arquivo .zip
-`zip -r NomePasta.zip NomePasta` | compacta a pasta e todos os arquivos que tem dentro dela em um arquivo .zip
-`unzip NomePasta.zip` | descompacta o arquivo .zip
-`unzip -l NomePasta.zip` | me mostra o que tem dentro do arquivo .zip
+`zip Nome.zip NomePasta` | compacta a pasta em um arquivo .zip
+`zip -r Nome.zip NomePasta` | compacta a pasta e todos os arquivos que tem dentro dela em um arquivo .zip
+`unzip Nome.zip` | descompacta o arquivo .zip
+`unzip -l Nome.zip` | me mostra o que tem dentro do arquivo .zip
+`unzip -q Nome.zip` | compacta a pasta e não retorna o relatório do que foi compactado.
+`touch NomeDocumento"` | seleciona apenas o documento especificado
 
 <br />
 
+### .TAR - COMPACTAR & DESCOMPACTAR ARQUIVOS, E+ [#verRodando](n)
+COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
+----------- | ------
+`tar -cz NomePasta > Nome.tar.gz` | compacta a pasta em um arquivo .tar.gz
+`tar -cjf "Nome.tar.gz" "NomePasta/"` | compacta de forma mais leve.
+`tar -xz < Nome.tar.gz` | descompacta o arquivo .tar.gz com direcionamento.
+`tar -czf Nome.tar.gz NomePasta/` | descompacta o arquivo .tar.gz sem direcionamento.
+`tar -xzf < "Nome.tar.gz"` | descompacta o arquivo .tar.gz sem direcionamento.
+
+* TAR não compacta, ele apenas empacota os arquivos, por isso compactar com ele se torna mais leve. E por ser empacotador que o TAR é usado junto do .gz, que é o compactador real. E o .gz é o formato gerado pelo compactador gzip. Doido né?
+
+<br />
 
 ## *DOCUMENTO EM CONSTRUÇÃO*
 
