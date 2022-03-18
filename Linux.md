@@ -70,7 +70,7 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 `unzip Nome.zip` | descompacta o arquivo .zip
 `unzip -l Nome.zip` | me mostra o que tem dentro do arquivo .zip
 `unzip -q Nome.zip` | compacta a pasta e não retorna o relatório do que foi compactado.
-`touch NomeDocumento"` | seleciona apenas o documento especificado
+`touch NomeDocumento` | seleciona apenas o documento especificado
 
 <br />
 
@@ -81,7 +81,7 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 `tar -cjf "Nome.tar.gz" "NomePasta/"` | compacta de forma mais leve.
 `tar -xz < Nome.tar.gz` | descompacta o arquivo .tar.gz com direcionamento.
 `tar -czf Nome.tar.gz NomePasta/` | descompacta o arquivo .tar.gz sem direcionamento.
-`tar -xzf < "Nome.tar.gz"` | descompacta o arquivo .tar.gz sem direcionamento.
+`tar -xzf < Nome.tar.gz` | descompacta o arquivo .tar.gz sem direcionamento.
 
 * TAR não compacta, ele apenas empacota os arquivos, por isso compactar com ele se torna mais leve. E por ser empacotador que o TAR é usado junto do .gz, que é o compactador real. E o .gz é o formato gerado pelo compactador gzip. Doido né?
 
