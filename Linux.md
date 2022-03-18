@@ -12,18 +12,17 @@ Por que esse carinha é usado em grande escala por diversos servidores, e també
 *  O QUE É O LINUX? É um sistema operacional. Mas para não ficar tão vago, vou deixar alguns links que podem te ajudar a conhecer melhor ele.
 
 * [TechTudo - Linux: Tudo o que você precisa saber antes de começar a usar](https://www.techtudo.com.br/noticias/2015/03/linux-tudo-o-que-voce-precisa-saber-antes-de-comecar-usar.ghtml)
-* <a href="https://www.techtudo.com.br/noticias/2015/03/linux-tudo-o-que-voce-precisa-saber-antes-de-comecar-usar.ghtml" target="_blank"> TechTudo - Linux: Tudo o que você precisa saber antes de começar a usar</a>
 
 <br />
 
-### COMANDOS BÁSICOS DE NAVEGAÇÃO E CONSULTAS NOS DIRETÓRIOS [verRodando+](n)
+### COMANDOS BÁSICOS DE NAVEGAÇÃO E CONSULTAS NOS DIRETÓRIOS [#verRodando](n)
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
 `pwd` | mostra onde estou (na area de trabalho, ou na pasta tal).
 `cd NomeOndeQueroIr` | entra nos lugares (entra nas pastas).
 `cd ..` | volta para os lugares (retorna para onde você estava).
 `cd .` | mostra onde estou (pasta atual).
-`cd` | me faz voltar para a *HOME*.
+`cd` | volta para a *HOME*.
 `ls` | mostra o que tem no lugar que estou (nome de pastas, documentos, arquivos).
 `ls -l` | mostra o que tem no lugar que estou detalhadamente (nome, data, tipo).
 `ls -a` | mostra o que tem no lugar que estou detalhadamente inclusive pastas e arquivos ocultos.
@@ -34,20 +33,32 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 * DIRETÓRIO é a mesma coisa que uma pasta (nas antigas, no tempo do [DOS](https://pt.wikipedia.org/wiki/DOS), chamavam as pastas de diretórios).
 * PASTA é onde guardamos arquivos e outras pastas.
 * ARQUIVO armazena dados, informações. Ex.: um bloco de notas gera um arquivo de texto. Uma foto é um arquivo de imagem.
+
 <br />
 
-### CRIAR, RENOMEAR E EDITAR DOCUMENTOS [verRodando+](n)
+### DIRETÓRIOS - CRIAR, RENOMEAR, EXCLUIR E+  [#verRodando](n)
+COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
+----------- | ------
+`mkdir NomePasta` | cria uma nova pasta.
+`cp -r NomePasta NomeDaCopia` | copia a pasta.
+`rmdir NomePasta` | exclui pasta vazias.
+`rm -r NomePasta` | exclui pasta com arquivos dentro.
+
+<br />
+
+### ARQUIVOS - CRIAR, RENOMEAR, EXCLUIR, E+ [#verRodando](n)
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
 `echo NomeDocumento` | cria um novo documento.
+`mv NomeDocumento NomeNovo` | renomeia o documento.
+`cp NomeDocumento NomeDaCopia` | faz cópia do documento.
+`mv NomeDocumento NomePasta/NomeDocumento` | move o documento para outra pasta
 `echo NomeDocumento > NomeDocumento.txt` | transforma o documento criado em um documento na extensão escolhida (no caso do exemplo .txt).
 `echo NomeDocumento > NomeDocumento.txt` | usando `>` você sobrescreve dados ao documento.
 `echo NomeDocumento >> NomeDocumento.txt` | usando `>>` você acrescenta dados ao documento.
 `cat NomeDocumento.txt` | abri o documento e mostra o conteúdo dele.
 `cat -n NomeDocumento.txt` | além de abrir o documento e mostrar o conteúdo dele, mostra o número de linhas deste documento.
-`mv NomeDocumento NomeNovo` | renomeia o documento.
-`cp NomeDocumento NomeDaCopia` | fazer cópia do documento.
-
+`rm NomeDocumento` | exclui o documento.
 
 <br />
 
