@@ -9,11 +9,11 @@ Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgân
 <br />
 
 ### CONHECIMENTOS BÁSICOS:
-*  <span style="color:red"> O QUE É ENGENHARIA DE DADOS? </span> A grosso modo é a área que trata da transformação do grande volume de dados brutos de uma empresa. Ela coleta, armazena e transforma esses dados em grande escala.
+*  O QUE É ENGENHARIA DE DADOS? A grosso modo é a área que trata da transformação do grande volume de dados brutos de uma empresa. Ela coleta, armazena e transforma esses dados em grande escala.
 
-* <span style="color:red"> O QUE O ENGENHEIRO DE DADOS FAZ?</span> Em suma o engenheiro gerencia, monitora e otimiza o armazenamento, recuperação e distribuição desses dados.
+* O QUE O ENGENHEIRO DE DADOS FAZ? Em suma o engenheiro gerencia, monitora e otimiza o armazenamento, recuperação e distribuição desses dados.
 
-* <span style="color:red"> O QUE É PRECISO SABER PARA TRABALHAR COM ENGENHARIA DE DADOS? </span> Muitas coisas, mas ter uma boa base em programação e banco de dados é essencial.
+* O QUE É PRECISO SABER PARA TRABALHAR COM ENGENHARIA DE DADOS? Muitas coisas, mas o essencial é ter uma boa base em programação (por que você precisa conhecer linguagens de programação para fazer a integração de dados, seja coletando, analisando ou otimizando eles) e banco de dados.
 * [saber+](n)
 
 <br />
