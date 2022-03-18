@@ -40,8 +40,8 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
 `mkdir NomePasta` | cria uma nova pasta.
-`cp -r NomePasta NomeDaCopia` | copia a pasta.
-`rmdir NomePasta` | exclui pasta vazias.
+`cp -r NomePasta NomeDaCopia` | cria uma cópia da pasta.
+`rmdir NomePasta` | exclui pasta vazia.
 `rm -r NomePasta` | exclui pasta com arquivos dentro.
 
 <br />
@@ -51,7 +51,7 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
 `echo NomeDocumento` | cria um novo documento.
 `mv NomeDocumento NomeNovo` | renomeia o documento.
-`cp NomeDocumento NomeDaCopia` | faz cópia do documento.
+`cp NomeDocumento NomeDaCopia` | cria uma cópia do documento.
 `mv NomeDocumento NomePasta/NomeDocumento` | move o documento para outra pasta
 `echo NomeDocumento > NomeDocumento.txt` | transforma o documento criado em um documento na extensão escolhida (no caso do exemplo .txt).
 `echo NomeDocumento > NomeDocumento.txt` | usando `>` você sobrescreve dados ao documento.
@@ -61,6 +61,17 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 `rm NomeDocumento` | exclui o documento.
 
 <br />
+
+### ARQUIVOS - COMPACTAR, DESCOMPACTAR, E+ [#verRodando](n)
+COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
+----------- | ------
+`zip NomePasta.zip NomePasta` | compacta a pasta em um arquivo .zip
+`zip -r NomePasta.zip NomePasta` | compacta a pasta e todos os arquivos que tem dentro dela em um arquivo .zip
+`unzip NomePasta.zip` | descompacta o arquivo .zip
+`unzip -l NomePasta.zip` | me mostra o que tem dentro do arquivo .zip
+
+<br />
+
 
 ## *DOCUMENTO EM CONSTRUÇÃO*
 
