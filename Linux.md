@@ -12,6 +12,7 @@ Por que esse carinha é usado em grande escala por diversos servidores, e també
 *  O QUE É O LINUX? É um sistema operacional. Mas para não ficar tão vago, vou deixar alguns links que podem te ajudar a conhecer melhor ele.
 
 * [TechTudo - Linux: Tudo o que você precisa saber antes de começar a usar](https://www.techtudo.com.br/noticias/2015/03/linux-tudo-o-que-voce-precisa-saber-antes-de-comecar-usar.ghtml)
+* <a href="https://www.techtudo.com.br/noticias/2015/03/linux-tudo-o-que-voce-precisa-saber-antes-de-comecar-usar.ghtml">TechTudo - Linux: Tudo o que você precisa saber antes de começar a usar</a>
 
 <br />
 
