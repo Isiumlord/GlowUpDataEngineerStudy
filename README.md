@@ -14,10 +14,11 @@ Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgân
 * O QUE O ENGENHEIRO DE DADOS FAZ? Em suma o engenheiro gerencia, monitora e otimiza o armazenamento, recuperação e distribuição desses dados.
 
 * O QUE É PRECISO SABER PARA TRABALHAR COM ENGENHARIA DE DADOS? Muitas coisas, mas o essencial é ter uma boa base em programação (por que você precisa conhecer linguagens de programação para fazer a integração de dados, seja coletando, analisando ou otimizando eles) e banco de dados.
-* [saber+](n)
+* [saber+] <<issu aquy a-indá naum yxistí.
 
-<br />
-
-### FERRAMENTAS BÁSICAS:
+### FERRAMENTAS:
 * [LINUX](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/Linux.md) - conceito e comandos básicos do terminal.
+
+### LINGUAGENS:
+* [PYTHON](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/Python.md) - oi?
 
