@@ -18,6 +18,7 @@ Por que esse carinha é usado em grande escala por diversos servidores, e també
 <br />
 
 <details><summary><big><big><big><big><big><big><b>COMANDOS BÁSICOS DE NAVEGAÇÃO E CONSULTAS NOS DIRETÓRIOS</b></big></big></big></big></big></big></summary>
+<br />
 
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
@@ -42,6 +43,7 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 
 
 <details><summary><big><big><big><big><big><big><b>DIRETÓRIOS - CRIAR, RENOMEAR, EXCLUIR E+</b></big></big></big></big></big></big></summary>
+<br />
 
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
@@ -54,6 +56,7 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 </details>
 
 <details><summary><big><big><big><big><big><big><b>ARQUIVOS - CRIAR, RENOMEAR, EXCLUIR, E+</b></big></big></big></big></big></big></summary>
+<br />
 
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
@@ -71,6 +74,7 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 </details>
 
 <details><summary><big><big><big><big><big><big><b>.ZIP - COMPACTAR & DESCOMPACTAR ARQUIVOS, E+</b></big></big></big></big></big></big></summary> 
+<br />
 
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
@@ -84,7 +88,8 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 </details>
 
 <details><summary><big><big><big><big><big><big><b>.TAR - COMPACTAR & DESCOMPACTAR ARQUIVOS, E+</b></big></big></big></big></big></big></summary>
-  
+<br />
+
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
 `tar -cz NomePasta > Nome.tar.gz` | compacta a pasta em um arquivo .tar.gz
@@ -99,7 +104,8 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 
 
 <details><summary><big><big><big><big><big><big><b>PROGRAMAS - CONSULTAR, ABRIR, FECHAR E+</b></big></big></big></big></big></big></summary>
-  
+<br />
+
 COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 ----------- | ------
 `NomePrograma` | executa o programa/"abri" o programa (se escrever "firefox" e apertar enter, o Firefox será executado).
@@ -124,7 +130,7 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
  
 </details>
 
-<br />
+
 
 ## *DOCUMENTO EM CONSTRUÇÃO*
 
