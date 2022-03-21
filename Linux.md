@@ -114,9 +114,12 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 `ps -ef` | mostra todos os programas detalhadamente.
 `top`| mostra a situação dos processos, do processador e da memória, além de outras informações.
 `kill CódigoPrograma` | para o processo do programa, mas antes avisa o programa.
-`kill -9 CódigoPrograma` | para o processo do programa de vez, sem aviso.
-`killall top` | para todos os processos sem precisar digitar todos os seus  ID's.
-`killall -9 top` | para todos os processos de uma vez só.
+`kill -9 CódigoPrograma` | mata/para o processo do programa de vez, sem aviso.
+`killall top` | mata/para todos os processos sem precisar digitar todos os seus  ID's.
+`killall -9 top` | mata/para todos os processos de uma vez só.
+`pstree` | encontra o programa que está sendo executado e mostra onde ele está sendo executado.
+`jobs` | mostra quais programas estão em execução.
+`bg` | coloca o programa executar em background (rodar em segundo plano).
 
 ...continuação dos comandos:
 * `ps -ef | grep NomePrograma` - mostra o programa selecionado. [Marckdown não deixava os comandos ficarem corretos na tabela]
@@ -126,6 +129,7 @@ COMANDOS USADOS NO TERMINAL | O QUE ELE FAZ
 * -9 no comando `kill` e `killall` funciona como um "forçar" o desligamento dos programas.
 * ID's é a mesma coisa que Código do Programa.
 * PROCESSO basicamente é a execução de um programa.
+* PARA é do verbo PARAR, então quando falo "para todos os" ou "para o" o comando está parando algo.
 
  
 </details>
