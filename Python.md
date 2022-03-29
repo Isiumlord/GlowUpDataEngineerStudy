@@ -33,7 +33,7 @@ Python é blá, blá, blá.
 <br />
 
 ### UTILIZANDO O PYTHON:
-<details><summary><big><big><big><big><big><big><b>CONHECENDO VÁRIAVEIS E TIPOS DE VALORES</b></big></big></big></big></big></big></summary>
+<details><summary><big><big><big><big><big><big><b>CONHECENDO VARIÁVEIS E TIPOS DE VALORES</b></big></big></big></big></big></big></summary>
 <br />
 
 :notebook: **VARIÁVEIS** *- são como caixas registradoras: recebem valores e os guardam na memória. Usamos as variáveis exatamente para isso, para guardarmos valores que serão usados mais tarde no programa.*
@@ -82,7 +82,48 @@ BOOLEAN | Condição | True ou False
   
 </details>
 
+<details><summary><big><big><big><big><big><big><b>CONHECENDO PRINT E FORMAT</b></big></big></big></big></big></big></summary>
+<br />
 
+:notebook: **PRINT** *- é a função que imprime/exibe o que está sendo executado. É ela quem vai mostrar na tela os resultados daquilo que está sendo feito.*
+> **A ESTRUTURA DO PRINT - print( )**
+```
+x = 77
+
+print("Oi, você está me lendo.")
+print(x)
+
+#Impressão
+Oi, você está me lendo.
+77
+```
+<br />
+<br />
+
+:notebook: **FORMAT** *- é um método de formatação de String, ou seja, é com ele que conseguimos formatar strings de forma mais dinamica.*
+> **A ESTRUTURA DO FORMAT - print( { } ).format(parametros)**
+
+Para utiliza-lo você deve ter em mente que ele usa parametros, ou seja, você terá que ter:
+
+* Variáveis que ditem quais os valores seram mutáveis.
+* Um Print onde os valores dessas variáveis apareceram.
+
+Tendo isso você consegue posicionar as chaves { }, que ditam a posição do valor dentro da mensagem, no Print, e usar as Variáveis como parametros para fazer com que os valores correspondam as suas posições nas mensagens.
+```
+#Variável com dados editáveis
+nome = Haruka
+documento = Python
+
+#Usando Format
+print("Oi {}, você está lendo {}.").format(nome, documento)
+
+#Impressão
+Oi Haruka, você está lendo Python.
+```
+
+[EXEMPLOS DE USO](n)
+
+</details>
 <br />
 
 ### *DOCUMENTO EM CONSTRUÇÃO.*
