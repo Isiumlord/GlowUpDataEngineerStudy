@@ -78,7 +78,7 @@ BOOLEAN | Condição | True ou False
 * FLOAT também pode ser escrito ou conhecido como `Double`.
 * BOOLEAN também pode ser escrito ou conhecido como `bool`.
 
-[EXEMPLOS DE USO](n)
+[*EXEMPLOS DE USO*](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/PythonNotebooks/Variavel-TiposDeValores.ipynb)
   
 </details>
 
