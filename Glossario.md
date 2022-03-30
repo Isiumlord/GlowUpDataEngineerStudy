@@ -1,0 +1,39 @@
+# Glossário
+<img align="right" alt="engen" width="250" src="https://i.pinimg.com/originals/54/98/88/549888805ac40cb67a3bb7ab6a4024ea.gif">
+
+Descubra o significado de *"termos Técnês"* de um jeito simples.
+<br />
+<br />
+Tenha em mente que esse glossário é feito a "grosso modo". Ele é real e significativo, mas trata os conceitos de forma resumida e simplista.
+* *Nesse repositório será postado linhas de estudo e resoluções pertinentes ao Engenheiro de Dados. Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgânico e evolutório, contando com uma linguagem que mescla facilitar a aprendizagem e troca de informações.*
+<br />
+
+### CONCEITOS E SEUS SIGNIFICADOS:
+
+### A
+
+________________________________________________________________________________________________________________________________________________________________
+
+
+### B
+
+<details><summary><big><big><big><big><big><big><b>BIG DATA</b></big></big></big></big></big></big></summary>
+<br />
+
+Todo mundo tem uma definição diferente para o conceito Big Data, mas esse todo mundo quer dizer a mesma coisa. Para melhor exemplificar vou deixar em tópicos:
+* Big Data é a área do conhecimento que estuda como tratar, analisar e obter informações a partir de conjuntos de dados grandes demais para serem analisados por sistemas tradicionais. -by [Wikipédia](https://pt.wikipedia.org/wiki/Big_data).
+* Big Data são dados com maior variedade que chegam em volumes crescentes e com velocidade cada vez maior. -by [Oracle](https://www.oracle.com/br/big-data/what-is-big-data/).
+
+Resumindo:
+
+>BIG DATA.
+
+</details>
+
+________________________________________________________________________________________________________________________________________________________________
+
+<br />
+<br />
+
+________________________________________________________________________________________________________________________________________________________________
+***DOCUMENTO EM CONSTRUÇÃO***
