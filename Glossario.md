@@ -54,6 +54,8 @@ Data Lake nada mais é que aquela gaveta que você joga tudo nela, não importa 
 Isso é um Data Lake:
 >Um repositório centralizado para armazenar dados estruturados e não estruturados.
 
+Se você quiser mais detalhes pode encontrar no [site da AWS](https://aws.amazon.com/pt/big-data/datalakes-and-analytics/what-is-a-data-lake/) e no [Blog Ciencia e Dados](https://www.cienciaedados.com/data-lake-a-fonte-do-big-data/).
+
 </details>
 
 ________________________________________________________________________________________________________________________________________________________________
