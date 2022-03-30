@@ -41,6 +41,29 @@ Se você quiser destrinchar Big Data, essa [leitura da Alura](https://www.alura.
 
 ________________________________________________________________________________________________________________________________________________________________
 
+### C
+
+________________________________________________________________________________________________________________________________________________________________
+
+### D
+
+<details><summary><big><big><big><big><big><big><b>DATA LAKE</b></big></big></big></big></big></big></summary>
+<br />
+  
+Data Lake nada mais é que aquela gaveta que você joga tudo nela, não importa o que é; se é chave, documento, resto de comida, foto antiga. Tanto faz. Você guarda tudo ali, naquela gaveta.
+Isso é um Data Lake:
+>Um repositório centralizado para armazenar dados estruturados e não estruturados.
+
+</details>
+
+________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
 <br />
 <br />
 
