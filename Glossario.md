@@ -50,13 +50,15 @@ ________________________________________________________________________________
 <details><summary><big><big><big><big><big><big><b>DATA WAREHOUSE</b></big></big></big></big></big></big></summary>
 <br />
 
-
 Data Warehouse funciona como um depósito de dados, ele guarda seus dados de forma organizada e alinhada.
+
 Ou seja:
 >Um banco de dados estruturados.
+
 Mas caso você não consiga visualizar essa explicação muito bem, deixo aqui as definições da [SAP](https://www.sap.com/brazil/insights/what-is-a-data-warehouse.html) e da [DevMedia](https://www.devmedia.com.br/data-warehouse/12609) sobre o assunto.
 
 </details>
+
 
 
 <details><summary><big><big><big><big><big><big><b>DATA LAKE</b></big></big></big></big></big></big></summary>
