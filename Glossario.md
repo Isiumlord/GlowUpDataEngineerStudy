@@ -53,20 +53,19 @@ ________________________________________________________________________________
 Data Warehouse funciona como um depósito de dados, ele guarda seus dados de forma organizada e alinhada.
 
 Ou seja:
->Um banco de dados estruturados.
+>**DATA WAREHOUSE** é um banco de dados estruturados.
 
 Mas caso você não consiga visualizar essa explicação muito bem, deixo aqui as definições da [SAP](https://www.sap.com/brazil/insights/what-is-a-data-warehouse.html) e da [DevMedia](https://www.devmedia.com.br/data-warehouse/12609) sobre o assunto.
 
 </details>
 
 
-
 <details><summary><big><big><big><big><big><big><b>DATA LAKE</b></big></big></big></big></big></big></summary>
 <br />
   
 Data Lake nada mais é que aquela gaveta que você joga tudo nela, não importa o que é; se é chave, documento, resto de comida, foto antiga. Tanto faz. Você guarda tudo ali, naquela gaveta.
-Isso é um Data Lake:
->Um repositório centralizado para armazenar dados estruturados e não estruturados.
+Ou seja:
+>**DATA LAKE** é um repositório centralizado para armazenar dados estruturados e não estruturados.
 
 Se você quiser mais detalhes pode encontrar no [site da AWS](https://aws.amazon.com/pt/big-data/datalakes-and-analytics/what-is-a-data-lake/) e no [Blog Ciencia e Dados](https://www.cienciaedados.com/data-lake-a-fonte-do-big-data/).
 
