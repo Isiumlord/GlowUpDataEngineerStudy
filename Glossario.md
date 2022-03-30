@@ -36,7 +36,8 @@ O Big Data, para ser considerado Big Data, precisa passar pelos conceitos dos V'
 Agora imagine esse tanto de mensagens chegando frenéticamente, de todos os lados, de todas as formas, e você tendo que dar conta. Tendo que armazenar, tratar, analisar, informacionar e sem deixar esse fluxo parar. Toda essa função, toda essa ação, esse conceito de cuidar disso tudo de uma forma funcional e otimizada foi batizado de Big Data.
 
 Se você quiser destrinchar Big Data, essa [leitura da Alura](https://www.alura.com.br/artigos/big-data) está muito boa.
-
+<br />
+  
 </details>
 
 ________________________________________________________________________________________________________________________________________________________________
@@ -56,7 +57,8 @@ Ou seja:
 >**DATA WAREHOUSE** é um banco de dados estruturados.
 
 Mas caso você não consiga visualizar essa explicação muito bem, deixo aqui as definições da [SAP](https://www.sap.com/brazil/insights/what-is-a-data-warehouse.html) e da [DevMedia](https://www.devmedia.com.br/data-warehouse/12609) sobre o assunto.
-
+<br />
+  
 </details>
 
 
@@ -64,11 +66,13 @@ Mas caso você não consiga visualizar essa explicação muito bem, deixo aqui a
 <br />
   
 Data Lake nada mais é que aquela gaveta que você joga tudo nela, não importa o que é; se é chave, documento, resto de comida, foto antiga. Tanto faz. Você guarda tudo ali, naquela gaveta.
+
 Ou seja:
 >**DATA LAKE** é um repositório centralizado para armazenar dados estruturados e não estruturados.
 
 Se você quiser mais detalhes pode encontrar no [site da AWS](https://aws.amazon.com/pt/big-data/datalakes-and-analytics/what-is-a-data-lake/) e no [Blog Ciencia e Dados](https://www.cienciaedados.com/data-lake-a-fonte-do-big-data/).
-
+<br />
+  
 </details>
 
 ________________________________________________________________________________________________________________________________________________________________
