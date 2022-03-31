@@ -9,12 +9,14 @@ Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgân
 <br />
 
 ### CONHECIMENTOS BÁSICOS:
-*  O QUE É ENGENHARIA DE DADOS? A grosso modo é a área que trata da transformação do grande volume de dados brutos de uma empresa. Ela coleta, armazena e transforma esses dados em grande escala.
+*  **O QUE É ENGENHARIA DE DADOS?** A grosso modo é a área que trata da transformação do grande volume de dados brutos de uma empresa. Ela coleta, armazena e transforma esses dados em grande escala.
 
-* O QUE O ENGENHEIRO DE DADOS FAZ? Em suma o engenheiro gerencia, monitora e otimiza o armazenamento, recuperação e distribuição desses dados.
+* **O QUE O ENGENHEIRO DE DADOS FAZ?** Em suma o engenheiro gerencia, monitora e otimiza o armazenamento, recuperação e distribuição desses dados.
 
-* O QUE É PRECISO SABER PARA TRABALHAR COM ENGENHARIA DE DADOS? Muitas coisas, mas o essencial é ter uma boa base em programação (por que você precisa conhecer linguagens de programação para fazer a integração de dados, seja coletando, analisando ou otimizando eles) e banco de dados.
-* [saber+] <<issu aquy a-indá naum yxistí.
+* **O QUE É PRECISO SABER PARA TRABALHAR COM ENGENHARIA DE DADOS?** Muitas coisas, mas o essencial é ter uma boa base em programação (por que você precisa conhecer linguagens de programação para fazer a integração de dados, seja coletando, analisando ou otimizando eles) e banco de dados.
+
+### CONCEITOS:
+* [GLOSSÁRIO](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/Glossario.md) - existem diversos conceitos dentro da aréa, e fora dela, que devemos conhecer para não ficarmos viajando na maionese, por isso foi criado o Glossário, um documento muito legal que traz esses conceitos de uma forma prática e resumida.
 
 ### FERRAMENTAS:
 * [LINUX](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/Linux.md) - conceito e comandos básicos do terminal.
