@@ -120,10 +120,39 @@ Ou seja:
 
 ________________________________________________________________________________________________________________________________________________________________
 
+### E
 
+<details><summary><big><big><big><big><big><big><b>ELT</b></big></big></big></big></big></big></summary>
+<br />
 
+ELT vem do inglês - Extract, Load and Transform. Você usa ele para:
+* Extrair dados de uma base de dados;
+* Carregar esses dados em um Data Warehouse ou Data Lake;
+* Transformar esses dados, que já estão cerragados, para melhor analisá-los.
 
+Ou seja:
+>**ELT** é exatamente Extração, Carregamento e Transformação.
 
+*Se você quiser mais detalhes pode encontrar no [blog Indicium](https://blog.indicium.tech/etl-vs-elt-diferencas/#:~:text=ETL%3A%20m%C3%A9todo%20desenvolvido%20para%20suporte,escal%C3%A1vel%20em%20infraestruturas%20de%20cloud.).*
+
+<br />
+</details>
+
+<details><summary><big><big><big><big><big><big><b>ETL</b></big></big></big></big></big></big></summary>
+<br />
+
+ETL vem do inglês - Extract, Transform and Load. Você usa ele para:
+* Extrair dados de uma base de dados;
+* Transformar esses dados para melhor analisá-los.
+* Carregar esses dados em um Data Warehouse ou Data Lake;
+
+Ou seja:
+>**ETL** é exatamente Extração, Transformação e Carregamento.
+
+*Se você quiser mais detalhes pode encontrar no [blog Indicium](https://blog.indicium.tech/etl-vs-elt-diferencas/#:~:text=ETL%3A%20m%C3%A9todo%20desenvolvido%20para%20suporte,escal%C3%A1vel%20em%20infraestruturas%20de%20cloud.).*
+
+<br />
+</details>
 
 
 <br />
