@@ -48,17 +48,43 @@ ________________________________________________________________________________
 
 ### D
 
-<details><summary><big><big><big><big><big><big><b>DATA WAREHOUSE</b></big></big></big></big></big></big></summary>
+<details><summary><big><big><big><big><big><big><b>DADOS ESTRUTURADOS</b></big></big></big></big></big></big></summary>
 <br />
-
-Data Warehouse funciona como um depósito de dados, ele guarda seus dados de forma organizada e alinhada.
+  
+Pense em estrutura. Para uma estrutura existir, antes alguém teve que decidir como ela ia ser, do que ela ia ser e o que ela ia ter. Agora vamos pensar em Dados Estruturados, para eles serem estruturados, antes eles tem de estar em uma estrutura e ser o tipo de dado que aquela estrutura aceita.
 
 Ou seja:
->**DATA WAREHOUSE** é um banco de dados estruturados.
+>**DADOS ESTRUTURADOS** são dados que possuem um padrão específico e estão organizados em uma estrutura.
 
-*Se você quiser mais detalhes pode encontrar no [site SAP](https://www.sap.com/brazil/insights/what-is-a-data-warehouse.html) e no [site DevMedia](https://www.devmedia.com.br/data-warehouse/12609).*
+*Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.)*
 
+<br /> 
+</details>
+
+<details><summary><big><big><big><big><big><big><b>DADOS NÃO ESTRUTURADOS</b></big></big></big></big></big></big></summary>
 <br />
+  
+Imagina você ter fotos, vídeos, áudios, textos e ter de organizar todos eles em uma única estrutura. Primeiro que essa estrutura não poderia ser pré-definida, ela teria de se moldar de acordo com os seus dados, teria de ser muito flexível e expansiva.
+
+Ou seja:
+>**DADOS NÃO ESTRUTURADOS** são dados variados, flexíveis sem padrões e estruturas definidas.
+  
+*Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.)*
+
+<br /> 
+</details>
+
+<details><summary><big><big><big><big><big><big><b>DADOS SEMI ESTRUTURADOS</b></big></big></big></big></big></big></summary>
+<br />
+  
+Agora você tem dados com algumas caracteristicas padronizadas, mas esses dados serão armazenados em uma estrutura mais flexível.
+
+Ou seja:
+>**DADOS SEMI ESTRUTURADOS** são dados que contem algumas pré-definições, mas são organizados em estrutura flexíveis.
+  
+*Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.)*
+
+<br /> 
 </details>
 
 
@@ -70,9 +96,22 @@ Data Lake nada mais é que aquela gaveta que você joga tudo nela, não importa 
 Ou seja:
 >**DATA LAKE** é um repositório centralizado para armazenar dados estruturados e não estruturados.
 
-*Se você quiser mais detalhes pode encontrar no [site da AWS](https://aws.amazon.com/pt/big-data/datalakes-and-analytics/what-is-a-data-lake/) e no [Blog Ciencia e Dados](https://www.cienciaedados.com/data-lake-a-fonte-do-big-data/).*
+*Se você quiser mais detalhes pode encontrar no [site AWS](https://aws.amazon.com/pt/big-data/datalakes-and-analytics/what-is-a-data-lake/) e no [Blog Ciencia e Dados](https://www.cienciaedados.com/data-lake-a-fonte-do-big-data/).*
 
 <br /> 
+</details>
+
+<details><summary><big><big><big><big><big><big><b>DATA WAREHOUSE</b></big></big></big></big></big></big></summary>
+<br />
+
+Data Warehouse funciona como um depósito de dados, ele guarda seus dados de forma organizada e alinhada.
+
+Ou seja:
+>**DATA WAREHOUSE** é um banco de dados estruturados.
+
+*Se você quiser mais detalhes pode encontrar no [site SAP](https://www.sap.com/brazil/insights/what-is-a-data-warehouse.html) e no [site DevMedia](https://www.devmedia.com.br/data-warehouse/12609).*
+
+<br />
 </details>
 
 ________________________________________________________________________________________________________________________________________________________________
