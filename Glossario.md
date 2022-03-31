@@ -54,7 +54,7 @@ ________________________________________________________________________________
 Pense em estrutura. Para uma estrutura existir, antes alguém teve que decidir como ela ia ser, do que ela ia ser e o que ela ia ter. Agora vamos pensar em Dados Estruturados, para eles serem estruturados, eles tem que ser o tipo de dado que a estrutura aceita, e estar em uma estrutura.
 
 Ou seja:
->**DADOS ESTRUTURADOS** são dados que possuem um padrão específico e estão organizados em uma estrutura.
+>**DADOS ESTRUTURADOS** são dados que possuem um padrão específico e estão organizados em uma estrutura. Ex.: Parquet, AVRO.
 
 *Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.).*
 
@@ -68,10 +68,10 @@ Imagina que várias fotos, vídeos, áudios e textos devem ser organizados todos
 * Primeiro, esses dados são todos muitos diferentes.
 * Segundo, a estrutura não poderia ser pré-definida, ela teria de se moldar de acordo com os seus dados, teria de ser muito flexível e expansiva.
 
-Essas duas caracteristicas marcantes são o que fazem os dados se tornarem Dados Não Estruturados.
+Essas duas caracteristicas marcantes são o que fazem os dados se tornarem Dados Não Estruturados. Ex.: fotos, vídeos, áudios e textos.
 
 Ou seja:
->**DADOS NÃO ESTRUTURADOS** são dados variados, flexíveis sem padrões e estrutura definida.
+>**DADOS NÃO ESTRUTURADOS** são dados variados, flexíveis sem padrões e estrutura definida. Ex.: CSV, JSON.
   
 *Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.).*
 
