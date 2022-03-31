@@ -51,12 +51,12 @@ ________________________________________________________________________________
 <details><summary><big><big><big><big><big><big><b>DADOS ESTRUTURADOS</b></big></big></big></big></big></big></summary>
 <br />
   
-Pense em estrutura. Para uma estrutura existir, antes alguém teve que decidir como ela ia ser, do que ela ia ser e o que ela ia ter. Agora vamos pensar em Dados Estruturados, para eles serem estruturados, antes eles tem de estar em uma estrutura e ser o tipo de dado que aquela estrutura aceita.
+Pense em estrutura. Para uma estrutura existir, antes alguém teve que decidir como ela ia ser, do que ela ia ser e o que ela ia ter. Agora vamos pensar em Dados Estruturados, para eles serem estruturados, eles tem que ser o tipo de dado que a estrutura aceita, e estar em uma estrutura.
 
 Ou seja:
 >**DADOS ESTRUTURADOS** são dados que possuem um padrão específico e estão organizados em uma estrutura.
 
-*Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.)*
+*Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.).*
 
 <br /> 
 </details>
