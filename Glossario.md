@@ -81,12 +81,12 @@ Ou seja:
 <details><summary><big><big><big><big><big><big><b>DADOS SEMI ESTRUTURADOS</b></big></big></big></big></big></big></summary>
 <br />
   
-Agora você tem dados com algumas caracteristicas padronizadas, mas esses dados serão armazenados em uma estrutura mais flexível.
+Agora você tem dados com algumas características padronizadas, mas esses dados serão armazenados em uma estrutura mais flexível. Isso torna seus dados em Dados Semi Estruturados.
 
 Ou seja:
->**DADOS SEMI ESTRUTURADOS** são dados que contem algumas pré-definições, mas são organizados em estrutura flexíveis.
+>**DADOS SEMI ESTRUTURADOS** são dados que contem algumas caraterísticas pré-definidas, mas são organizadas em estruturas flexíveis.
   
-*Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.)*
+*Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.).*
 
 <br /> 
 </details>
