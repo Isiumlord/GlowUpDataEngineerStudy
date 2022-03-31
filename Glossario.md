@@ -64,7 +64,7 @@ Ou seja:
 <details><summary><big><big><big><big><big><big><b>DADOS NÃO ESTRUTURADOS</b></big></big></big></big></big></big></summary>
 <br />
   
-Imagina várias fotos, vídeos, áudios e textos terem de ser organizados todos juntos em uma única estrutura.
+Imagina que várias fotos, vídeos, áudios e textos devem ser organizados todos juntos em uma única estrutura.
 * Primeiro, esses dados são todos muitos diferentes.
 * Segundo, a estrutura não poderia ser pré-definida, ela teria de se moldar de acordo com os seus dados, teria de ser muito flexível e expansiva.
 Essas duas caracteristicas marcantes são o que fazem os dados se tornarem Dados Não Estruturados.
