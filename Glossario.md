@@ -67,10 +67,11 @@ Ou seja:
 Imagina que várias fotos, vídeos, áudios e textos devem ser organizados todos juntos em uma única estrutura.
 * Primeiro, esses dados são todos muitos diferentes.
 * Segundo, a estrutura não poderia ser pré-definida, ela teria de se moldar de acordo com os seus dados, teria de ser muito flexível e expansiva.
+
 Essas duas caracteristicas marcantes são o que fazem os dados se tornarem Dados Não Estruturados.
 
 Ou seja:
->**DADOS NÃO ESTRUTURADOS** são dados variados, flexíveis sem padrões e estruturas definidas.
+>**DADOS NÃO ESTRUTURADOS** são dados variados, flexíveis sem padrões e estrutura definida.
   
 *Se você quiser mais detalhes pode encontrar no [blog Treina Web](https://www.treinaweb.com.br/blog/o-que-sao-dados-estruturados-e-nao-estruturados#:~:text=Os%20dados%20do%20tipo%20estruturados,atrav%C3%A9s%20de%20linhas%20e%20colunas.).*
 
