@@ -121,8 +121,9 @@ print("Oi {}, você está lendo {}.".format(nome, livro))
 Oi Haruka, você está lendo Python.
 ```
 
-[EXEMPLOS DE USO](n)
+[EXEMPLOS DE USO](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/PythonNotebooks/Print-Format.ipynb)
 
+<br />
 </details>
 <br />
 
