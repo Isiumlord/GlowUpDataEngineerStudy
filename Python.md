@@ -146,7 +146,7 @@ Digite seu nome:
 
 [...]
 
-[*EXEMPLOS DE USO*](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/PythonNotebooks/Print-Format.ipynb)
+[*EXEMPLOS DE USO*](n)
 
 <br />
 </details>
