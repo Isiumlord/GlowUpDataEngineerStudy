@@ -126,6 +126,30 @@ Oi Haruka, você está lendo Python.
 
 <br />
 </details>
+
+<details><summary><big><big><big><big><big><big><b>CONHECENDO INPUT E VALIDAÇÃO DE DADOS</b></big></big></big></big></big></big></summary>
+<br />
+
+:notebook: **INPUT** *- é a função que recebe dados do usuário. O Input sempre vai pedir algo alguém; e quando ele receber esse algo, ele sempre retornará uma "String".*
+> **A ESTRUTURA DO INPUT - variavel = input("mensagem")**
+```
+nome = input("Digite seu nome: ")
+print(nome)
+
+#Impressão
+Digite seu nome:
+```
+<br />
+<br />
+
+:notebook: **VALIDAÇÃO DE DADOS** *- a validação de dados é feita para certificar de que os dados recebidos são exatamente aqueles esperados pelo programa.**
+
+[...]
+
+[*EXEMPLOS DE USO*](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/PythonNotebooks/Print-Format.ipynb)
+
+<br />
+</details>
 <br />
 
 ### *DOCUMENTO EM CONSTRUÇÃO.*
