@@ -111,8 +111,8 @@ Para utiliza-lo você deve ter em mente que ele usa parametros, ou seja, você t
 Tendo isso você consegue posicionar as chaves { }, que ditam a posição do valor dentro da mensagem no Print, e usar as Variáveis como parametros para fazer com que os valores correspondam as suas posições nas mensagens.
 ```
 #Variável com dados editáveis
-nome = Haruka
-documento = Python
+nome = "Haruka"
+documento = "Python"
 
 #Usando Format
 print("Oi {}, você está lendo {}.".format(nome, documento))
