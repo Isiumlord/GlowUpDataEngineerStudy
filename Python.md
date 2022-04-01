@@ -112,10 +112,10 @@ Tendo isso você consegue posicionar as chaves { }, que ditam a posição do val
 ```
 #Variável com dados editáveis
 nome = "Haruka"
-documento = "Python"
+livro = "Python"
 
 #Usando Format
-print("Oi {}, você está lendo {}.".format(nome, documento))
+print("Oi {}, você está lendo {}.".format(nome, livro))
 
 #Impressão
 Oi Haruka, você está lendo Python.
