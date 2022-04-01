@@ -32,7 +32,7 @@ Python é blá, blá, blá.
 </details>
 <br />
 
-### UTILIZANDO O PYTHON:
+### UTILIZANDO O PYTHON - PRIMEIROS PASSOS:
 <details><summary><big><big><big><big><big><big><b>CONHECENDO VARIÁVEIS E TIPOS DE VALORES</b></big></big></big></big></big></big></summary>
 <br />
 
