@@ -79,7 +79,8 @@ BOOLEAN | Condição | True ou False
 * BOOLEAN também pode ser escrito ou conhecido como `bool`.
 
 [*EXEMPLOS DE USO*](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/PythonNotebooks/Variavel-TiposDeValores.ipynb)
-  
+
+<br />
 </details>
 
 <details><summary><big><big><big><big><big><big><b>CONHECENDO PRINT E FORMAT</b></big></big></big></big></big></big></summary>
