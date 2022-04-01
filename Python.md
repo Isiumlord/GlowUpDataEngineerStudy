@@ -101,21 +101,21 @@ Oi, você está me lendo.
 <br />
 
 :notebook: **FORMAT** *- é um método de formatação de String, ou seja, é com ele que conseguimos formatar strings de forma mais dinamica.*
-> **A ESTRUTURA DO FORMAT - print( { } ).format(parametros)**
+> **A ESTRUTURA DO FORMAT - print("Mensagem { }".format(parametros)**
 
 Para utiliza-lo você deve ter em mente que ele usa parametros, ou seja, você terá que ter:
 
 * Variáveis que ditem quais os valores seram mutáveis.
 * Um Print onde os valores dessas variáveis apareceram.
 
-Tendo isso você consegue posicionar as chaves { }, que ditam a posição do valor dentro da mensagem, no Print, e usar as Variáveis como parametros para fazer com que os valores correspondam as suas posições nas mensagens.
+Tendo isso você consegue posicionar as chaves { }, que ditam a posição do valor dentro da mensagem no Print, e usar as Variáveis como parametros para fazer com que os valores correspondam as suas posições nas mensagens.
 ```
 #Variável com dados editáveis
 nome = Haruka
 documento = Python
 
 #Usando Format
-print("Oi {}, você está lendo {}.").format(nome, documento)
+print("Oi {}, você está lendo {}.".format(nome, documento))
 
 #Impressão
 Oi Haruka, você está lendo Python.
