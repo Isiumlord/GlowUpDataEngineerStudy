@@ -33,7 +33,7 @@ Python é blá, blá, blá.
 <br />
 
 ### UTILIZANDO O PYTHON - PRIMEIROS PASSOS:
-<details><summary><big><big><big><big><big><big><b>CONHECENDO VARIÁVEIS E TIPOS DE VALORES</b></big></big></big></big></big></big></summary>
+<details><summary><big><big><big><big><big><big><b>CONHECENDO VARIÁVEIS E TIPOS DE VALORES (STRING, INT, FLOAT E BOOLEAN)</b></big></big></big></big></big></big></summary>
 <br />
 
 :notebook: **VARIÁVEIS** *- são como caixas registradoras: recebem valores e os guardam na memória. Usamos as variáveis exatamente para isso, para guardarmos valores que serão usados mais tarde no programa.*
@@ -127,10 +127,10 @@ Oi Haruka, você está lendo Python.
 <br />
 </details>
 
-<details><summary><big><big><big><big><big><big><b>CONHECENDO INPUT E VALIDAÇÃO DE DADOS</b></big></big></big></big></big></big></summary>
+<details><summary><big><big><big><big><big><big><b>CONHECENDO INPUT, IF, ELIF E ELSE</b></big></big></big></big></big></big></summary>
 <br />
 
-:notebook: **INPUT** *- é a função que recebe dados do usuário. O Input sempre vai pedir algo alguém; e quando ele receber esse algo, ele sempre retornará uma "String".*
+:notebook: **INPUT** *- é a função que recebe dados do usuário. O Input sempre vai pedir algo a alguém; e quando ele receber esse algo, ele sempre retornará uma "String".*
 > **A ESTRUTURA DO INPUT - variavel = input("mensagem")**
 ```
 nome = input("Digite seu nome: ")
@@ -142,8 +142,18 @@ Digite seu nome:
 <br />
 <br />
 
-:notebook: **VALIDAÇÃO DE DADOS** *- a validação de dados é feita para certificar de que os dados recebidos são exatamente aqueles esperados pelo programa.**
+:notebook: **IF, ELIF e ELSE** *- são condições que determinam qual ação o código vai executar.*
+Essas três condições podem ser simplesmente entendidas como:
+* IF = SE, faça isso;
+* ELIF = MAS SE, faça isso;
+* ELSE = SE NENHUMA DAS ANTERIORES, faça isso.
 
+Para você conseguir visualizar melhor o que foi dito:
+
+1.Imagine que você é segurança de uma festa na cidade, mas para deixar as pessoas entrarem na festa você tem que seguir algumas regras:
+* SE (if) - a pessoa ter 18 anos ou +18, pode entrar;
+* MAS SE (elif) - a pessoa ter 18 anos ou +18, e estiver visivelmente alterada, não pode entrar;
+* SE NENHUMA DAS ANTERIORES (else) - não pode entrar;
 [...]
 
 [*EXEMPLOS DE USO*](n)
