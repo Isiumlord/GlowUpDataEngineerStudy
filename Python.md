@@ -36,7 +36,7 @@ Python é blá, blá, blá.
 <details><summary><big><big><big><big><big><big><b>CONHECENDO VARIÁVEIS E TIPOS DE VALORES (STRING, INT, FLOAT E BOOLEAN)</b></big></big></big></big></big></big></summary>
 <br />
 
-:notebook: **VARIÁVEIS** *- são como caixas registradoras: recebem valores e os guardam na memória. Usamos as variáveis exatamente para isso, para guardarmos valores que serão usados mais tarde no programa.*
+:notebook: **VARIÁVEIS** *- são como caixas registradoras: recebem valores e os guardam na memória. Usamos as variáveis exatamente para isso, para guardarmos valores que serão usados mais tarde no código.*
 > **A ESTRUTURA DA VARIÁVEL - variavel = valor**
 ```
 nome = "Maria"
@@ -44,13 +44,13 @@ numero = 1
 conta = n + x
 ```
   
-Digamos que tenho uma conta para fazer, mas para resolver essa conta devo usar uma fórmula. Só que eu não lembro os valores númericos dessa fórmula. Então, para resolver isso, eu vim aqui no Python e usei as variavéis para guardar esses valores.
+Digamos que tenho uma conta para fazer, mas para resolver essa conta devo usar uma fórmula. Só que eu não lembro os valores númericos dessa fórmula. Então, para resolver isso, vim aqui no Python e usei as variavéis para guardar esses valores.
 
 * `valor1 = 7`
 * `valor2 = 9.8`
 * `valor3 = 88.789`
 
-Aí, toda vez que preciso resolver uma conta que usa essa fórmula, ao invés de usar os números que eu não sei, eu uso os nomes que eu dei para esses valores, e esses nomes são as variáveis.
+Aí, toda vez que preciso resolver uma conta que usa essa fórmula, ao invés de usar os números que não lembro, uso os nomes que dei para esses valores, e esses nomes são as variáveis.
 
 Ou seja, ao invés de lembrar a fórmula desse jeito: 
 * `x = 7 * 9.8 / 88.789`
