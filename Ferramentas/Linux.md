@@ -8,13 +8,12 @@ Por que esse carinha é usado em grande escala por diversos servidores, e també
 *Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgânico e evolutório, contando com uma linguagem que mescla facilitar a aprendizagem e troca de informações.*
 <br />
 
-### CONHECIMENTOS BÁSICOS:
-*  O QUE É O LINUX? É um sistema operacional. Mas para não ficar tão vago, vou deixar alguns links que podem te ajudar a conhecer melhor ele.
-* [TechTudo - Linux: Tudo o que você precisa saber antes de começar a usar](https://www.techtudo.com.br/noticias/2015/03/linux-tudo-o-que-voce-precisa-saber-antes-de-comecar-usar.ghtml)
+## CONHECIMENTO BÁSICO:
+*  **O QUE É O LINUX?** É um sistema operacional de código aberto muito utilizado pela comunidade de TI. Mas para não ficar tão vago e simplista, você pode acessa o link: [TechTudo - Linux: Tudo o que você precisa saber antes de começar a usar](https://www.techtudo.com.br/noticias/2015/03/linux-tudo-o-que-voce-precisa-saber-antes-de-comecar-usar.ghtml), ele pode te ajudar a conhecer melhor o Linux.
 
 <br />
 
-### COMANDOS BÁSICOS (TERMINAL LINUX):
+## COMANDOS BÁSICOS (TERMINAL LINUX):
 <br />
 
 <details><summary><big><big><big><big><big><big><b>COMANDOS BÁSICOS DE NAVEGAÇÃO E CONSULTAS NOS DIRETÓRIOS</b></big></big></big></big></big></big></summary>
