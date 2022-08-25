@@ -21,9 +21,9 @@ Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgân
 <br>
 
 ## :wrench: FERRAMENTAS:
-* [LISTA DE FERRAMENTAS](https://github.com/Isiumlord/GlowUpDataEngineerStudy/tree/main/Ferramentas) - encontre aqui algumas das ferramentas mais utilizadas pelos Engenheiros de Dados.
+* [LISTA DE FERRAMENTAS](https://github.com/Isiumlord/GlowUpDataEngineerStudy/tree/main/Ferramentas) - encontre aqui algumas das ferramentas utilizadas pelos Engenheiros de Dados.
 <br>
 
 ## :bookmark: LINGUAGENS:
-* [PYTHON](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/Python.md) - oi?
+* [LISTA DE LINGUAGENS](https://github.com/Isiumlord/GlowUpDataEngineerStudy/tree/main/Linguagens) - encontre aqui algumas das linguagens utilizadas pelos Engenheiros de Dados.
 
