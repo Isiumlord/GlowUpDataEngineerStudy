@@ -21,7 +21,7 @@ Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgân
 <br>
 
 ## :wrench: FERRAMENTAS:
-* [LINUX](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/Ferramentas/Linux.md) - conceito e comandos básicos do terminal.
+* [LISTA DE FERRAMENTAS](https://github.com/Isiumlord/GlowUpDataEngineerStudy/tree/main/Ferramentas) - encontre aqui algumas das ferramentas mais utilizadas pelos Engenheiros de Dados.
 <br>
 
 ## :bookmark: LINGUAGENS:
