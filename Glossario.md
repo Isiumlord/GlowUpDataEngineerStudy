@@ -126,9 +126,9 @@ ________________________________________________________________________________
 <br />
 
 ELT vem do inglês - Extract, Load and Transform. Você usa ele para:
-* Extrair dados de uma base de dados;
-* Carregar esses dados em um Data Warehouse ou Data Lake;
-* Transformar esses dados, que já estão cerragados, para melhor analisá-los.
+* Extrai dados de uma base de dados;
+* Carrega esses dados;
+* Transforma esses dados em tempo real.
 
 Ou seja:
 >**ELT** é exatamente Extração, Carregamento e Transformação.
@@ -142,9 +142,9 @@ Ou seja:
 <br />
 
 ETL vem do inglês - Extract, Transform and Load. Você usa ele para:
-* Extrair dados de uma base de dados;
-* Transformar esses dados para melhor analisá-los.
-* Carregar esses dados em um Data Warehouse ou Data Lake;
+* Extrai dados de uma base de dados;
+* Transformar esses dados;
+* Carrega esses dados em um DataWarehouse .
 
 Ou seja:
 >**ETL** é exatamente Extração, Transformação e Carregamento.
