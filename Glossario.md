@@ -122,17 +122,33 @@ ________________________________________________________________________________
 
 ### E
 
+<details><summary><big><big><big><big><big><big><b>EL</b></big></big></big></big></big></big></summary>
+<br />
+
+EL vem do inglês Extract and Load (Extração e Carregamento).
+
+Com o EL você:
+* Extrai dados de uma base de dados;
+* Carrega esses dados no local de destino.
+  
+> USAMOS O **EL** QUANDO os dados já estão limpos e corretos, podendo ser importados como estão diretamente para outro sistema, ou seja, esses dados não precisam passar por nenhuma Transformação, apenas devem ser *Extraidos* de um local e *Carregados* para outro.
+
+
+<br />
+</details>
+
 <details><summary><big><big><big><big><big><big><b>ELT</b></big></big></big></big></big></big></summary>
 <br />
 
-ELT vem do inglês - Extract, Load and Transform. Você usa ele para:
+ELT vem do inglês Extract, Load and Transform (Extração, Carregamento e Transformação).
+
+Com o ELT você:
 * Extrai dados de uma base de dados;
-* Carrega esses dados;
+* Carrega esses dados no local de destino;
 * Transforma esses dados em tempo real.
 
-Ou seja:
->**ELT** é exatamente Extração, Carregamento e Transformação.
-
+> USAMOS O **ELT** QUANDO queremos permitir que dados brutos sejam *Carregados* diretamente no destino e *Transformados* mais tarde, ou sempre que necessário.
+  
 *Se você quiser mais detalhes pode encontrar no [blog Indicium](https://blog.indicium.tech/etl-vs-elt-diferencas/#:~:text=ETL%3A%20m%C3%A9todo%20desenvolvido%20para%20suporte,escal%C3%A1vel%20em%20infraestruturas%20de%20cloud.).*
 
 <br />
@@ -141,13 +157,14 @@ Ou seja:
 <details><summary><big><big><big><big><big><big><b>ETL</b></big></big></big></big></big></big></summary>
 <br />
 
-ETL vem do inglês - Extract, Transform and Load. Você usa ele para:
+ETL vem do inglês - Extract, Transform and Load (Extração, Transformação e Carregamento).
+  
+Com o ETL você:
 * Extrai dados de uma base de dados;
-* Transformar esses dados;
-* Carrega esses dados em um DataWarehouse .
+* Transforma esses dados;
+* Carrega esses dados no local de destino.
 
-Ou seja:
->**ETL** é exatamente Extração, Transformação e Carregamento.
+> USAMOS O **ETL** QUANDO no processo de integração de dados a transformação deve ocorrer em um serviço intermediário antes de ser carregado no destino.
 
 *Se você quiser mais detalhes pode encontrar no [blog Indicium](https://blog.indicium.tech/etl-vs-elt-diferencas/#:~:text=ETL%3A%20m%C3%A9todo%20desenvolvido%20para%20suporte,escal%C3%A1vel%20em%20infraestruturas%20de%20cloud.).*
 
