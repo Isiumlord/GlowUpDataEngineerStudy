@@ -20,7 +20,7 @@ Lembrando quê: esse estudo é trabalhado no dia-a-dia, sendo um processo orgân
 * [GLOSSÁRIO](https://github.com/Isiumlord/GlowUpDataEngineerStudy/blob/main/Glossario.md) - existem diversos conceitos dentro da aréa, e fora dela, que devemos conhecer para não ficarmos viajando na maionese, por isso foi criado o Glossário, um documento muito legal que traz esses conceitos de uma forma prática e resumida.
 <br>
 
-## :wrench: FERRAMENTAS
+## 🛠 FERRAMENTAS
 * [LISTA DE FERRAMENTAS](https://github.com/Isiumlord/GlowUpDataEngineerStudy/tree/main/Ferramentas) - encontre aqui algumas das ferramentas utilizadas pelos Engenheiros de Dados.
 <br>
 
